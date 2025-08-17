@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524697476634",
+    "project_id": "pokemon-e8b10",
+    "storage_bucket": "pokemon-e8b10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524697476634:android:ab0d6173ab46ba6a997ba3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524697476634-0iufo096k5lbakqoaaonvva7ba52f9qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "c41a70b0c0c048bc71c1bed31fb34a824973edce"
+          }
+        },
+        {
+          "client_id": "524697476634-te1vit6nn9s4grlcsqdb9f76vatfnn8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuuKhQkbLxUzoqtczxBcFTTmP5l1C8Hyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524697476634-te1vit6nn9s4grlcsqdb9f76vatfnn8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
